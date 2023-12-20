@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋,
 
-<!--
-**luizveronesi/luizveronesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a highly experienced software engineer with 20+ years of experience. Over the course of my career, I have fulfilled several roles, contributing to all stages of the software development lifecycle, including business analysis, task prioritization, interface design, deployment, support, project and personnel management, pre-sales, and, of course, CODING, which I just love!
 
-Here are some ideas to get you started:
+Feel free to reach me and use everything here as much as you want!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luizveronesi/) 
+ 
+---
+
+<p>My profile overview: </p>
+
+![Luiz Veronesi's github stats](https://github-readme-stats.vercel.app/api?username=luizveronesi&show_icons=true) 
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=luizveronesi">
