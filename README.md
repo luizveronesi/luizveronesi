@@ -4,8 +4,6 @@ I am a highly experienced software engineer with 20+ years of experience. Over t
 
 Feel free to reach me and use everything here as much as you want!
 
- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luizveronesi/) 
- 
 ---
 
 <p>My profile overview: </p>
